@@ -2,6 +2,12 @@
 
 import random
 
+seed = b'DINOBONE'
+
+seed = int.from_bytes(seed, 'big', signed=False)
+
+random.seed(seed)
+
 DNA=list('TCAG') * 100
 AL=3
 
