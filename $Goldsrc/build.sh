@@ -13,7 +13,7 @@ fi
 eex()
 {
 	cmd="$@"
-	echo "eex: $cmd"
+	echo "$cmd"
 	$cmd
 }
 
