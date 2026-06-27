@@ -11,5 +11,10 @@ public class HayabusaControls
 	{
 		on = false;
 	}
+	public void defaultAction()
+	{
+		if (!on) return;
+		System.out.println("sys.audit: defaultAction");
+	}
 }
 
