@@ -5,7 +5,7 @@ public class Teuton extends Entity
     public Teuton(ShirtColour c)
     {
         super(c, "Teuton");
-	ConvertStrength = 5;
+	    ConvertStrength = 5;
     }
 }
 

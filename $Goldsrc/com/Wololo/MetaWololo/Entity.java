@@ -13,7 +13,7 @@ public class Entity
 	{
 		return name;
 	}
-	public void convert(Priest other)
+	protected void converted_by(Priest other)
 	{
 		if (other.ConvertStrength >= ConvertStrength)
 		{

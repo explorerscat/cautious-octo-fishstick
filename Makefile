@@ -23,7 +23,7 @@ ${ASSET}/Indoraptor.dna:
 clean:
 	rm -rf ${BUILD}
 	rm -f ${ROOT}/${THIS}.jar
-	rm -f "`find '${SRC}' -name '*.class'`"
+	rm -f `find '${SRC}' -name '*.class'`
 
 rebuild:
 	@make clean
