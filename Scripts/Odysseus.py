@@ -22,5 +22,5 @@ def tr_hook(target="Fun.md"):
     with open(target, 'w') as f:
         f.write(content)
 
-hooks = [tr_hook]
+hooks = [tr_hook] # TODO: add more
 
