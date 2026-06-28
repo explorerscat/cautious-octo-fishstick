@@ -13,12 +13,12 @@ def tr_hook(target="Fun.md"):
         from argostranslate.translate import translate
         xlat = translate
     engchk = lambda eng: eng.encode('ascii').decode('ascii') # Sort of works
-    zh = translate(content, ENGLISH, CHINESE)
-    eng = translate(zh, JAPANESE, ENGLISH)
+    zh = xlat(content, ENGLISH, CHINESE)
+    eng = xlat(zh, JAPANESE, ENGLISH)
     try:
         content = engchk(eng)
     except:
-        content = translate(eng, CHINESE, ENGLISH)
+        content = xlat(eng, CHINESE, ENGLISH)
     with open(target, 'w') as f:
         f.write(content)
 
