@@ -1,65 +1,65 @@
-This page has been automatically translated. Home
+This page has been automatically converted.
 
 
 
-This is a bizarre,the main page is a bizarre.
+This is a bizarre, the main page is a bizarre.
 
 
 
-# science and technology
+Science and Technology
 
-## Reason:
+## Case:
 
-5AAA Defense
+5 5 Country Control
 
-public language, public language, public language
+♪ Dublic language, Public language, Public language
 
-500 people together
+500 people
 
-42 yellow rice x 42 yellow rice x 42 yellow rice
+42 pcs own Rice 2 pcs own Rice 2 pcs own.
 
-stop
+Outage
 
-6096 Pyeongsan water, Pyeongsan water, Pyeongan water!
+6096 Hills for water
 
-Small intestines, small intestines, stomach toxins.
+Stomach and science.
 
-GaipanFirst/early middle/Meizu 10-run system number
+Gaipan No.1/Early/Aesthetic 10 Run
 
-3.
+3 pieces
 
-1.White fish
-Water type
-1 cup white color
-1.White fish
-(Athlete compound research) Athlete compound research
+1.
+Water
+White
+1.
+(Synthetic Research)
 
 ## Method:
 
-1. Zhongshui City, Yellow Water, Electric Pond, Floating System.
+Hiro City, Yellow Water, Electrich Tong, Floating Water System.
 
-2. Same thing.
+2. Democratic situation.
 
-3. Gyosei Waso Theory.
+Drawing of tires.
 
-4.World
+4. World
 
-5. /call jype:Felix" 20-30 minutes
+5. Call jype: Felix "20-30 minutes
 
-6.Kunelat in the world, Ella in the world, Ella in the world.
+Overwhelming world, overwhelming world, overwhelming world.
 
-7. Theoxen Aerko, Aerko, Aerko, Lan PU
+7. Tatsumi, Tatsumi, Tatsumi
 
-"The dining room, the dining room, the dining room, the dining room, the dining room."
+""""""""""""""""""""""""""""""""""""""""""""""""" "" "" "" "" "" "" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
 
-8. Using your heart, preparing your life, living your life, living your life.
+I don't know.
 
-9. "Uranium 238"
+It's not like we're going to have to do this.
 
-10.Netode name: foreign language effect, Japanese Japanese “Earth Sphere”
+10. Netode name: Forest language, japanese "earth".
 
-11. Me again!
+Contact Us
 
-12. Don’t use your heart!
+12. Special thanks!
 
-...Red King?
+
