@@ -1,4 +1,6 @@
 
+import subprocess
+
 xlat = None
 
 ENGLISH = 'en' # English
@@ -22,5 +24,15 @@ def tr_hook(target="Fun.md"):
     with open(target, 'w') as f:
         f.write(content)
 
-hooks = [tr_hook] # TODO: add more
+def j_hook(target="https://zh.wikipedia.org/wiki/ITZY", out="T.md"):
+    global xlat
+    zh = subprocess.run(['curl', target], capture_output=True).stdout
+    if xlat is None:
+        from argostranslate.translate import translate
+        xlat = translate
+    content = xlat(zh, JAPANESE, ENGLISH)
+    with open(out, 'w') as f:
+        f.write(content)
+
+hooks = [tr_hook, j_hook] # TODO: add more
 

@@ -10,6 +10,8 @@ It works on my machine at least
 
 ## important
 
+[FUN](Fun.md)
+
 [Most important link](https://commons.wikimedia.org/wiki/File:Earwig_-_kanagawa_Japan_-_2025_Feb_28.webm)
 
 ## AI/LLM policy
