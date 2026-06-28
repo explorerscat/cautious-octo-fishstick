@@ -1,7 +1,6 @@
+# of contents
 
-# Fun words are in this document
+This page has been automatically translated. Please note that it may differ from the original.
 
-Yep this document can be just random text and stuff cause its a fun playground.
-
-or maybe something will come and change it ;)
+YA-YOKAN EAST EAST )
 
