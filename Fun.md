@@ -1,8 +1,8 @@
-This page has been automatically translated. This page is for sale.
+This page has been automatically translated. Home
 
 
 
-This is a bizarre, home page is a bizarre.
+This is a bizarre,the main page is a bizarre.
 
 
 
