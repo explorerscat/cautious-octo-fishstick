@@ -33,7 +33,7 @@ public class GooseValue
 		// Eggs do not lay eggs
 		int nowValue = 74;
 		// It was the goose that created value
-		goose.value = nowValue - eggs.value; // 74 - 3 = 71
+		//goose.value = nowValue - eggs.value; // 74 - 3 = 71
 		return goose.value; // Goose value 71
 	}
 }
