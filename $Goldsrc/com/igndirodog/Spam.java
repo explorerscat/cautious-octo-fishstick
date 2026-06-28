@@ -9,8 +9,10 @@ public class Spam
 {
 	public static void main(String args[])
 	{
+		Hedgehog[] hedgehogs = Hedgehog.starterColony();
+
 		System.out.println(Go_Crazy.getSingleton().state);
-		System.out.println("Horoscope: " + Horololo.horoscope());
+		System.out.println("Horoscope: " + Horololo.horoscope(hedgehogs));
 		Teuton t = new Teuton(ShirtColour.RED);
 		Entity e = new Entity(ShirtColour.RED, "Villager");
 		Priest p = new Priest(ShirtColour.BLUE);
@@ -40,5 +42,15 @@ public class Spam
 		int gooseValue = GooseValue.gooseValue();
 		System.out.println("Goose value");
 		System.out.println(gooseValue);
+
+		System.out.println("Hedgehog count");
+		System.out.println(hedgehogs.length);
+		for (Hedgehog hedgehog : hedgehogs)
+		{
+			System.out.println(hedgehog.describe());
+		}
+		System.out.println(hedgehogs[0].getName() + " has a " + hedgehogs[0].getShirtColour());
+		p.convert(hedgehogs[0]);
+		System.out.println(hedgehogs[0].getName() + " has a " + hedgehogs[0].getShirtColour());
 	}
 }
