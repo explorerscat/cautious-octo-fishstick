@@ -3,6 +3,7 @@ package com.igndirodog;
 import com.jype.two_pm.*;
 import com.Wololo.MetaWololo.*;
 import com.Wololo.*;
+import com.softbank.*;
 
 public class Spam
 {
@@ -35,5 +36,9 @@ public class Spam
 			e.getName()
 		);
 		System.out.println(e.getName() + " has a " + e.getShirtColour());
+
+		int gooseValue = GooseValue.gooseValue();
+		System.out.println("Goose value");
+		System.out.println(gooseValue);
 	}
 }

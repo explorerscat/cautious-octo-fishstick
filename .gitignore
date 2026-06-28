@@ -2,4 +2,5 @@ build
 Nyananamn.jar
 $Goldsrc/**/*.class
 Scripts/com.py
+assert_goose_value
 
