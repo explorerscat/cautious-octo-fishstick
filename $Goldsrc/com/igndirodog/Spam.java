@@ -44,13 +44,20 @@ public class Spam
 		System.out.println("Goose value");
 		System.out.println(gooseValue);
 
-		System.out.println("Hedgehog count:" + hedgehogs.length);
+		System.out.println("Hedgehog count: " + hedgehogs.length);
 		for (Hedgehog hedgehog : hedgehogs)
 		{
 			System.out.println(hedgehog.describe());
 		}
 		System.out.println(hedgehogs[0].getName() + " has a " + hedgehogs[0].getShirtColour());
 		p.convert(hedgehogs[0]);
+		System.out.println(
+			p.getName() +
+			" with a " +
+			p.getShirtColour() +
+			" converts " +
+			hedgehogs[0].getName()
+		);
 		System.out.println(hedgehogs[0].getName() + " has a " + hedgehogs[0].getShirtColour());
 	}
 }

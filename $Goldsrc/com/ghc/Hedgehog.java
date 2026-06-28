@@ -20,7 +20,7 @@ public class Hedgehog extends Entity
 
 	public String describe()
 	{
-		return getName() + " arrives with " + quillCount + " quills and a " + getShirtColour();
+		return getName() + " has " + quillCount + " quills and a " + getShirtColour();
 	}
 
 	public static Hedgehog[] starterColony()
