@@ -4,6 +4,7 @@ import com.jype.two_pm.*;
 import com.Wololo.MetaWololo.*;
 import com.Wololo.*;
 import com.softbank.*;
+import com.jaxa.hayabusa.*;
 
 public class Spam
 {
@@ -11,6 +12,7 @@ public class Spam
 	{
 		System.out.println(Go_Crazy.getSingleton().state);
 		System.out.println("Horoscope: " + Horololo.horoscope());
+		Hayabusa.getSingleton().communicate();
 		Teuton t = new Teuton(ShirtColour.RED);
 		Entity e = new Entity(ShirtColour.RED, "Villager");
 		Priest p = new Priest(ShirtColour.BLUE);

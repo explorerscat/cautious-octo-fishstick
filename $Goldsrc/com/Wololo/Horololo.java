@@ -7,7 +7,7 @@ public class Horololo
 	private static double _horoscope(double x, double y, double z)
 	{
 		double w = _embiggen(Maths.sin(x)) * _embiggen(-Maths.sin(y)) * _embiggen(Maths.sin(z));
-		double v = Maths.sqrt(w);
+		double v = Maths.sqrt(Maths.abs(w));
 		return -(v * 0.05);
 	}
 	private static double _embiggen(double s)

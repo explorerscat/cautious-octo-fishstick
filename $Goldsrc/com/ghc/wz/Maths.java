@@ -25,5 +25,9 @@ public class Maths
 	{
 		return rand() * sc;
 	}
+	public static double abs(double x)
+	{
+		return Math.abs(x);
+	}
 }
 
