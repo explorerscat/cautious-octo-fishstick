@@ -1,4 +1,4 @@
-package com.softbank;
+package com.ghc;
 
 import com.Wololo.MetaWololo.Entity;
 import com.Wololo.MetaWololo.ShirtColour;

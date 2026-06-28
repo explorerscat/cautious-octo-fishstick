@@ -4,6 +4,7 @@ import com.jype.two_pm.*;
 import com.Wololo.MetaWololo.*;
 import com.Wololo.*;
 import com.softbank.*;
+import com.ghc.*;
 
 public class Spam
 {
@@ -43,8 +44,7 @@ public class Spam
 		System.out.println("Goose value");
 		System.out.println(gooseValue);
 
-		System.out.println("Hedgehog count");
-		System.out.println(hedgehogs.length);
+		System.out.println("Hedgehog count:" + hedgehogs.length);
 		for (Hedgehog hedgehog : hedgehogs)
 		{
 			System.out.println(hedgehog.describe());

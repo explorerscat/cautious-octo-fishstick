@@ -1,15 +1,15 @@
 package com.Wololo;
 
 import com.ghc.wz.*;
-import com.softbank.Hedgehog;
+import com.ghc.Hedgehog;
 
 public class Horololo
 {
 	private static double _horoscope(double x, double y, double z, int hedgehogCount)
 	{
 		double w = _embiggen(Maths.sin(x)) * _embiggen(-Maths.sin(y)) * _embiggen(Maths.sin(z));
-		double hedgehogInfluence = Math.max(1, hedgehogCount);
-		double v = Maths.sqrt(Math.abs(w) + hedgehogInfluence);
+		double hedgehogInfluence = Maths.max(1, hedgehogCount);
+		double v = Maths.sqrt(Maths.abs(w) + hedgehogInfluence);
 		return -(v * 0.05);
 	}
 	private static double _embiggen(double s)
@@ -35,7 +35,7 @@ public class Horololo
 		double w = _horoscope(x, y, z, hedgehogCount);
 		if (Double.isNaN(w))
 		{
-			w = -0.05 * Math.max(1, hedgehogCount);
+			w = -0.05 * Maths.max(1, hedgehogCount);
 		}
 		return -w;
 	}
