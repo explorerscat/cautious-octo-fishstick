@@ -8,58 +8,58 @@ This is a bizarre, the main page is a bizarre.
 
 Science and Technology
 
-## Case:
+Example:
 
-5 5 Country Control
+5 National Control
 
-♪ Dublic language, Public language, Public language
+♪ Dublic Language
 
-500 people
+500 pcs
 
-42 pcs own Rice 2 pcs own Rice 2 pcs own.
+42 pcs.
 
-Outage
+Number of visitors
 
-6096 Hills for water
+6096 Mosquito Mountains
 
-Stomach and science.
+Stomach science.
 
-Gaipan No.1/Early/Aesthetic 10 Run
+Gaipan No.1/Early/Aesthetics 10 Shipping
 
 3 pieces
 
-1.
+Contact Us
 Water
 White
-1.
-(Synthetic Research)
+Contact Us
+(Synthetic research)
 
 ## Method:
 
-Hiro City, Yellow Water, Electrich Tong, Floating Water System.
+Kinosaki, Yellow Water, Electric Tong, Floating Water Systems.
 
-2. Democratic situation.
+2. Forces.
 
-Drawing of tires.
+
 
 4. World
 
 5. Call jype: Felix "20-30 minutes
 
-Overwhelming world, overwhelming world, overwhelming world.
+Inverted World, Inverted World, Inverted World.
 
-7. Tatsumi, Tatsumi, Tatsumi
+7. Tatsumikai
 
-""""""""""""""""""""""""""""""""""""""""""""""""" "" "" "" "" "" "" " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" """"" """""" """"" """""""""" """"" """"" """" """"" "" "" """" "" "" """" """""" "" "" """""" """""" """ """ """""" "" """"""" " """"" """"""""""""""""
 
 I don't know.
 
-It's not like we're going to have to do this.
+I don't know.
 
-10. Netode name: Forest language, japanese "earth".
+Netode name: Linguistics, japan.
 
 Contact Us
 
-12. Special thanks!
+Special thanks!
 
 
