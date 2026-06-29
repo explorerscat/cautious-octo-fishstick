@@ -24,7 +24,7 @@ Contact Us
 
 Stomach science.
 
-1/Early/Aesthetics
+English
 
 3 pieces
 
@@ -46,7 +46,7 @@ Tel: 86-755-87
 
 5. Call jype: Felix "20-30 minutes
 
-I'm sure you'll find that there's no reason why you don't want to talk about it.
+
 
 
 
@@ -56,7 +56,7 @@ I don't know.
 
 I don't know.
 
-JAPANESE
+Papanese.
 
 Contact Us
 
