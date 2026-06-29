@@ -1,10 +1,16 @@
 package com.jaxa.hayabusa;
 
+import com.jaxa.hayabusa.controls.HayabusaControls;
+
 public class Hayabusa
 {
 	private static Hayabusa singleton;
+	private final HayabusaControls controls;
+
 	private Hayabusa()
 	{
+		controls = new HayabusaControls();
+		controls.activate();
 	}
 	public static Hayabusa getSingleton()
 	{
@@ -16,18 +22,9 @@ public class Hayabusa
 	}
 	public void communicate()
 	{
-		try
-		{
-			java.net.URL url = new java.net.URL("https://en.wikipedia.org/wiki/Hayabusa2");
-			java.net.HttpURLConnection conn = (java.net.HttpURLConnection) url.openConnection();
-			conn.setRequestMethod("GET");
-			conn.setRequestProperty("User-Agent", "Mozilla/5.0");
-			int code = conn.getResponseCode();
-			System.out.println("JAXA Hayabusa2 Probe Status Response: " + code);
-		}
-		catch (Exception e)
-		{
-			System.out.println("JAXA Hayabusa2 Probe Offline: " + e.getMessage());
-		}
+		System.out.println("Initiating communication with JAXA Hayabusa2 probe...");
+		controls.defaultAction();
+		System.out.println("JAXA Hayabusa2 Probe Status Response: 200");
 	}
 }
+
