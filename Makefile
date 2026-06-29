@@ -20,7 +20,7 @@ ${ASSET}/Indoraptor.dna:
 ${ROOT}/${THIS}.jar:
 	rm -rf ${BUILD}
 	mkdir -p ${BUILD}
-	cd '${SRC}' && ./build.sh
+	cd '${SRC}' && bash build.sh
 	jar -cfe ${ROOT}/${THIS}.jar ${MC} -C ${ROOT} Assets/ -C ${BUILD} com/
 
 clean:
