@@ -24,7 +24,7 @@ Contact Us
 
 Stomach science.
 
-English
+
 
 3 pieces
 
@@ -56,7 +56,7 @@ I don't know.
 
 I don't know.
 
-Papanese.
+
 
 Contact Us
 
