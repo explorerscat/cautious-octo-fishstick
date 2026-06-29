@@ -12,7 +12,7 @@ Example
 
 5 National Control
 
-English
+
 
 500 pcs
 
@@ -24,7 +24,7 @@ Contact Us
 
 Stomach science.
 
-Gaipan No.1/Early/Aesthetics
+1/Early/Aesthetics
 
 3 pieces
 
@@ -36,7 +36,7 @@ Contact Us
 
 ## Method:
 
-Fax: 86-755-87
+Tel: 86-755-87
 
 
 
@@ -46,7 +46,7 @@ Fax: 86-755-87
 
 5. Call jype: Felix "20-30 minutes
 
-World of Falling, World of Falling, World of Falling.
+I'm sure you'll find that there's no reason why you don't want to talk about it.
 
 
 
@@ -56,10 +56,10 @@ I don't know.
 
 I don't know.
 
-The name is Linguistics, Papanese.
+JAPANESE
 
 Contact Us
 
-Thank you.
+
 
 
