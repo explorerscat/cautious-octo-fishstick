@@ -62,6 +62,6 @@ Contact Us
 
 
 
-Wow this text is so delightfully sensible
+
 
 
